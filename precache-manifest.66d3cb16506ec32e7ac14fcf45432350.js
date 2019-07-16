@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/trantuanvn/learn_react/static/js/runtime~main.fa1d3ed9.js"
   },
   {
-    "revision": "899eb689dbae6ee807a5",
-    "url": "/trantuanvn/learn_react/static/js/main.899eb689.chunk.js"
+    "revision": "21b6338fbe1d2af99845",
+    "url": "/trantuanvn/learn_react/static/js/main.21b6338f.chunk.js"
   },
   {
     "revision": "66e0f3aa5c7ad1394bfd",
     "url": "/trantuanvn/learn_react/static/js/1.66e0f3aa.chunk.js"
   },
   {
-    "revision": "899eb689dbae6ee807a5",
+    "revision": "21b6338fbe1d2af99845",
     "url": "/trantuanvn/learn_react/static/css/main.86474c6e.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/trantuanvn/learn_react/static/css/1.bbcc09bd.chunk.css"
   },
   {
-    "revision": "dc2eb96a35b0c670e49e466154d10ab6",
+    "revision": "ddf45df2016673bcfe04553975600f8b",
     "url": "/trantuanvn/learn_react/index.html"
   }
 ];

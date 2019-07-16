@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/trantuanvn/learn_react/precache-manifest.6d01c0333c9f25440b2edf153f0ec22f.js"
+  "/trantuanvn/learn_react/precache-manifest.66d3cb16506ec32e7ac14fcf45432350.js"
 );
 
 workbox.clientsClaim();
