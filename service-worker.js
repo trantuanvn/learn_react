@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/trantuanvn/learn_react/precache-manifest.4acd781cf32ff26841a9be8cb48fb358.js"
+  "/learn_react/precache-manifest.b4cad16ce79a66a34a2623067069adbc.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/trantuanvn/learn_react/index.html", {
+workbox.routing.registerNavigationRoute("/learn_react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
